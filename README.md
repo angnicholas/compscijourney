@@ -6,3 +6,5 @@ This is a very broad "guide" to Computer Science in Cambridge, based on my own p
 
 - [Overview of Course Structure](course_structure.md)
 - [External materials/resources I found helpful](resources.md)
+- [General advice](advice.md)
+- [My Personal Exam System/Strategy](exam_system.md)
