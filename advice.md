@@ -2,6 +2,22 @@
 
 _take it with a bucket of salt, ymmv_
 
+## Preparing for Job Interviews
+- Probably varies from place to place, but generally I like to think of it as 3 types - behavioural, programming and system design
+- I think the best advice I have gotten in terms of approaching tech interviews is to think of them as a two-way conversation to determine fit: ultimately the main goal of the interview is for the candidate and the company to reach a consensus about whether (the candidates goals + experiences) is compatible with (the company's requirements + culture)
+- This roughly translates to thinking more in terms of alignment rather than stat-maxxing: how do I demonstrate that a certain experience I have fulfils a requirement, similarly how can I verify that the company provides an environment that would help me achieve my career goals (and if so how do I demonstrate that that is the case)
+  
+### Behavioural Interview
+- Could be with HR, or an engineer, sometimes will be a small part of another interview type
+- Generally speaking will involve all the "tell me about a time you ..." questions
+- Main way I prepare is to make a mental log of all the notable past experiences I've had in work/school and the different projects, and what insights I can draw from them that demonstrate certain qualities
+
+### System Design / Programming
+- Generally I've found that being able to talk through your thought process seems to be more important to them than actually arriving at the correct answer - even if it takes longer to get the solution
+- Hence being able to talk and code at the same time is what I usually try to practice for as it does not come very naturally (instead of just doing as many hards as possible)
+- Along the same lines, it is better to write readable code than super optimised code (especially on the first go) - because you usually have enough time to optimise and modify as you go along - but it's much harder to do that if your first draft is unreadable even to yourself
+
+
 ## Workload Estimation
 
 - I think a good rule of thumb for estimating the amount of workload (lectures + supervision slots + homework) would be to take the number listed by the website and multiplying by 2
