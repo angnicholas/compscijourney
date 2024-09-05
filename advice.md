@@ -6,6 +6,7 @@ _take it with a bucket of salt, ymmv_
 - Probably varies from place to place, but generally I like to think of it as 3 types - behavioural, programming and system design
 - I think the best advice I have gotten in terms of approaching tech interviews is to think of them as a two-way conversation to determine fit: ultimately the main goal of the interview is for the candidate and the company to reach a consensus about whether (the candidates goals + experiences) is compatible with (the company's requirements + culture)
 - This roughly translates to thinking more in terms of alignment rather than stat-maxxing: how do I demonstrate that a certain experience I have fulfils a requirement, similarly how can I verify that the company provides an environment that would help me achieve my career goals (and if so how do I demonstrate that that is the case)
+- This is especially useful for the "do you have any questions" question - it's the perfect chance for you (the candidate) to essentially "interview" the company and discern for yourself if this is the right place for you - this is good for the interviewer because (1) it demonstrates you are actually interested (2) it shows them that you've actually thought about this thoroughly, and would be less likely to run into problems further down the line due to mismatched expectations
   
 ### Behavioural Interview
 - Could be with HR, or an engineer, sometimes will be a small part of another interview type
