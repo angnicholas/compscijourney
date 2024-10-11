@@ -19,9 +19,3 @@
 - The degree class will then be determined by percentile cut-offs
 - On top of that there are also graded practicals which are (pass/fail) - typically everyone passes as long as you submit your work on time
 
-## Year 2
-- Structure is quite similar to Year 1, there were more courses this time (17 examinable courses in total) - but without NST Maths the number of course hours is _roughly_ the same (although most people tend to find the Year 2 topics more challenging than NST Maths, since the latter overlaps slightly with/is a direct extension from A levels)
-- Not all courses on the [course website](https://www.cl.cam.ac.uk/teaching/2425/part1b.html) are examinable
-
-### Assessment
-- Similar to first year, except there is more freedom in terms of question choice (so you could revise really hard for some topics and drop a few)
