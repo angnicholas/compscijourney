@@ -8,6 +8,7 @@ This is a work in progress and very much not complete, if you have any suggestio
 
 If you have any suggestions feel free to open a PR as well!!
 
+- [Overview of my Journey](pathway.md)
 - [Overview of Course Structure](course_structure.md)
 - [External materials/resources I found helpful](resources.md)
 - [General advice](advice.md)
