@@ -1,4 +1,4 @@
-# Course Structure
+# Year 1
 
 [Back to home](/)
 
