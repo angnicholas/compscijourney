@@ -9,8 +9,8 @@
 
 ### Average Workload
 - This year I spent 77 hours on personal projects / career stuff, 581 hours on schoolwork (exam prep + watching/going to lectures + doing supervision work), 57 hours on supervision sessions (including 8 revision sessions) over 253 days  
-![Workload table](assets/workload.png)
-![Workload graph](assets/workload_graph.png)
+![Workload table](assets/workload.PNG)
+![Workload graph](assets/workload_graph.PNG)
 
 
 ### Assessment
