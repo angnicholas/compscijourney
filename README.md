@@ -1,8 +1,8 @@
-# Cambridge Computer Science Tripos
+# My Journey in Computer Science
 
 _obligatory disclaimer: everything listed here is documented based on my own personal experience and should not be taken as official guidance_
 
-This is a very broad "guide" to Computer Science in Cambridge, based on my own personal experience.
+This is a broad overview of my own personal experience in Computer Science / Software Engineering.
 
 This is a work in progress and very much not complete, if you have any suggestions / questions feel free to open an issue/contact me if you know me personally and I will try to address it!
 
